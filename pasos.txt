@@ -1,0 +1,6 @@
+1-Conecta tu repositorio local a uno remoto en Github
+2-Haz el primer commit y push para añadir todos los ficheros actuales
+3-Comprueba que este todo en Github
+4-En una rama nueva, crea un fichero git.html con el contenido: "Examen Git"
+5-Visualiza el estado del repositoiro local
+6-...
